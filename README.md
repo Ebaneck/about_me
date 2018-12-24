@@ -1,3 +1,3 @@
 # about_me
 
-https://ebaneck.github.io
+https://ebaneck.github.io/me/
